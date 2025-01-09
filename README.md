@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">FONT END DEVELOPER</h2>
+<h2 align="left">FRONT END DEVELOPER</h2>
 
 ###
 
