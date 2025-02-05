@@ -16,6 +16,15 @@
 
 ###
 
+<h1 align="center">Contact Info</h1>
+<ul>
+  <li>Email : ayeshasiddika777697@gmail.com</li>
+  <li>Whats App : +8801760408677</li>
+</ul>
+
+
+###
+
 <h1 align="center">Social Links</h1>
 
 ###
