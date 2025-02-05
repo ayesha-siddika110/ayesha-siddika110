@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="https://i.ibb.co.com/QgXyjvw/Black-and-Blue-Trendy-Gaming-Youtube-Banner-2.png"  />
+  <img height="500" src="https://i.ibb.co.com/QgXyjvw/Black-and-Blue-Trendy-Gaming-Youtube-Banner-2.png"  />
 </div>
 
 ###
