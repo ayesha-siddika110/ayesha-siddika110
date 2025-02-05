@@ -73,7 +73,7 @@
 <h1 align="center">Current Streaks</h1>
 
 ###
-<a href="https://git.io/streak-stats">
+<a align="center" href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=ayesha-siddika110&theme=dark" alt="GitHub Streak">
 </a>
 
